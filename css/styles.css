@@ -32,9 +32,11 @@
 
 .col-2-content{
   
-  padding:60px;
-  margin:20px;
-  margin-left:0px;
+  padding:40px;
+  margin-top:20px;
+  margin-right:20px;
+  margin-left:20px;
+  
 }
 .col-2-content h1{
   text-align: center;
