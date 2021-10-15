@@ -1,0 +1,21 @@
+.col-1-content{
+  padding: 40px;
+  background-color:steelblue;
+  margin:40px;
+  color:white;
+  
+}
+.col-1-content h2{
+  font-size: x-large;
+}
+.col-1-content h3,h4{
+  font-size: large;
+}
+.col-1-content p{
+  font-size:small;
+}
+
+.col-2-content{
+  text-align: center;
+  margin:70px;
+}
