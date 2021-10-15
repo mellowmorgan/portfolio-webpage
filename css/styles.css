@@ -2,10 +2,11 @@
 .col-1-content{
   padding:50px 40px 50px 40px;
   background-color:hsl(0, 49%, 72%) ;
-  
   color:white;
+  height:100%;
   
 }
+
 .col-1-content h2{
   font-size: x-large;
   text-align: center;
@@ -22,6 +23,10 @@
 }
 .col-1-content p{
   font-size:medium;
+}
+.col-container {
+  display: table; /* Make the container element behave like a table */
+  
 }
 
 
