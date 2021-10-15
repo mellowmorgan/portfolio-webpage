@@ -80,13 +80,36 @@ a:hover{
 ul li:last-child{
   margin-bottom:20px;
 }
+
+@media (max-width: 991px) {
 .nav-bar-custom{
-  float: right;
+  display:block;
+  float:right;
   margin:10px 20px 20px 20px;
 }
+}
+@media (min-width:992px) {
+  .nav-bar-custom{
+    display:block;
+    float: right;
+    margin:10px 20px 20px 20px;
+  }
+  }
+
+
+
 .nav-bar-custom span{
   text-transform: uppercase;
   font-size:12px;
   font-weight:600;
   letter-spacing: 1px;
+  color:rgb(95, 95, 95)
+}
+.nav-bar-custom div{
+  display: inline;
+  border:3px solid rgb(216, 216, 216);
+  padding:6px;
+}
+.col{
+  background-color: rgb(243, 243, 243);
 }
