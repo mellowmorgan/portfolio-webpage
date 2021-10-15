@@ -8,9 +8,17 @@
 }
 .col-1-content h2{
   font-size: x-large;
+  text-align: center;
 }
+
 .col-1-content h3,h4{
   font-size: large;
+  text-align: center;
+
+}
+.col-1-content h5{
+  font-size: large;
+  margin-bottom:18px;
 }
 .col-1-content p{
   font-size:medium;
@@ -26,4 +34,14 @@
 }
 .rm-padding{
   padding:0px;
+}
+.bio-pic{
+  border-radius: 50%;
+  width:180px;
+  height:180px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:50px;
+  
 }
