@@ -24,14 +24,26 @@
   font-size:medium;
 }
 
+
 .col-2-content{
   
   padding:60px;
   margin:50px;
+  margin-left:25px;
 }
 .col-2-content h1{
   text-align: center;
+  margin-bottom: 60px;
 }
+.col-2-content h2, h3, h4{
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.col-2-content li{
+  margin-bottom: 6px;
+}
+
 .rm-padding{
   padding:0px;
 }
