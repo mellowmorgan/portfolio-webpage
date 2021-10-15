@@ -17,6 +17,9 @@ A webpage of my portfolio, which includes:
 * Skills
 * List of projects with GitHub links
 
+## GitHub Page
+https://mellowmorgan.github.io/portfolio-webpage/
+
 ## Setup/Installation Instructions
 * Clone this repository to your desktop.
 * Navigate to the top level of the directory.
