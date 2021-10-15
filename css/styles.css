@@ -1,12 +1,14 @@
-span{
-  font-style: italic;
-}
 .col-1-content{
   padding:50px 40px 50px 40px;
   background-color:hsl(0, 49%, 72%) ;
   color:white;
   height:100%;
   
+}
+
+.container-fluid{
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .col-1-content h2{
@@ -66,15 +68,25 @@ a:hover{
 }
 .bio-pic{
   border-radius: 50%;
-  width:180px;
-  height:180px;
+  width: 180px;
+  height: 180px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom:50px;
+  margin-bottom: 50px;
   
 }
 
 ul li:last-child{
   margin-bottom:20px;
+}
+.nav-bar-custom{
+  float: right;
+  margin:10px 20px 20px 20px;
+}
+.nav-bar-custom span{
+  text-transform: uppercase;
+  font-size:12px;
+  font-weight:600;
+  letter-spacing: 1px;
 }
