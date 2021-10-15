@@ -1,7 +1,8 @@
+
 .col-1-content{
-  padding: 40px;
+  padding: 60px;
   background-color:steelblue;
-  margin:40px;
+  margin:50px;
   color:white;
   
 }
@@ -12,10 +13,17 @@
   font-size: large;
 }
 .col-1-content p{
-  font-size:small;
+  font-size:medium;
 }
 
 .col-2-content{
+  
+  padding:60px;
+  margin:50px;
+}
+.col-2-content h1{
   text-align: center;
-  margin:70px;
+}
+.rm-padding{
+  padding:0px;
 }
