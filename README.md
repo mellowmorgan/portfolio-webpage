@@ -16,7 +16,7 @@ A webpage of my portfolio, which includes:
 * About Me section
 * Work Experience
 * Skills
-* List of Projects with GitHub links
+* List of projects with GitHub links
 
 ## Setup/Installation Instructions
 * Clone this repository to your desktop.
