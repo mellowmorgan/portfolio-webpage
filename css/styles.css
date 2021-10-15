@@ -85,14 +85,14 @@ ul li:last-child{
 .nav-bar-custom{
   display:block;
   float:right;
-  margin:10px 20px 20px 20px;
+  margin:20px;
 }
 }
 @media (min-width:992px) {
   .nav-bar-custom{
     display:block;
     float: right;
-    margin:10px 20px 20px 20px;
+    margin:20px;
   }
   }
 
@@ -103,12 +103,13 @@ ul li:last-child{
   font-size:12px;
   font-weight:600;
   letter-spacing: 1px;
-  color:rgb(95, 95, 95)
 }
 .nav-bar-custom div{
   display: inline;
   border:3px solid rgb(216, 216, 216);
-  padding:6px;
+  padding:10px;
+}.nav-bar-custom div:first-child{
+  margin-right:10px;
 }
 .col{
   background-color: rgb(243, 243, 243);
